@@ -4,7 +4,6 @@
 </head>
 <body bgcolor=white>
 <table border="0">
-<caption>Sample Table Description</caption>
 <tr>
 <th colspan="2" style="text-align: center;">Table Header</th>
 </tr>
