@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="fr">
-<html>
 <head>
 <title>Sample Application JSP Page</title>
 </head>
 <body bgcolor=white>
 <table border="0">
+<caption>Exemple de table dans la page JSP</caption>
 <tr>
 <th colspan="2" style="text-align: center;">Table Header</th>
 </tr>
