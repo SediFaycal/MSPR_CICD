@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html lang="fr">
 <html>
 <head>
 <title>Sample Application JSP Page</title>
