@@ -8,10 +8,3 @@ jobs:
     - uses: actions/checkout@master
     - run: |
           jar cvf MonAppliFaycal.war * && ls
-
-    - name: Sync files
-      uses: SamKirkland/FTP-Deploy-Action@4.3.3
-      with:
-        server: http://ec2-13-39-79-82.eu-west-3.compute.amazonaws.com:8080/Faycal
-        username: MSPR_CICD
-        server-dir: public_html
