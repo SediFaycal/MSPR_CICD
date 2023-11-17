@@ -20,5 +20,5 @@ jobs:
         run: |
           ls -la 
           ipfs swarm peers
-          ipfs add MonAppliFaycal.war
+          ipfs add fichier.war
         shell: alpine.sh --root {0}
